@@ -45,7 +45,8 @@ wget https://cdn.download.sonatype.com/repository/downloads-prod-group/nxrm3-mig
 
 #### 2\.1\. 检查当前数据库
 
-![test\.jpg](图片和附件/test%205.jpg)
+<img width="2560" height="1380" alt="test 1" src="https://github.com/user-attachments/assets/688968f1-8fea-465a-a766-192d0c0da9c0" />
+
 
 #### Nexus升级至3\.70\.4版本
 
@@ -77,7 +78,8 @@ Starting nexus
 
 1. 访问服务ip:8081
 
-![test\.jpg](图片和附件/test%202.jpg)
+<img width="2559" height="1347" alt="test 2" src="https://github.com/user-attachments/assets/5916f79e-767a-485f-817a-d21d5d766fd1" />
+
 
 ### 3\. Nexus迁移数据库
 
@@ -92,13 +94,16 @@ Starting nexus
 
 Admin \- Export Database for backup
 
-![test\.jpg](图片和附件/test.jpg)
+<img width="2559" height="1347" alt="test" src="https://github.com/user-attachments/assets/ffafb7f9-e776-485f-84c8-728fcd4b96a4" />
 
-![test\.jpg](图片和附件/test%203.jpg)
+
+<img width="2006" height="781" alt="test 3" src="https://github.com/user-attachments/assets/c29115ec-20eb-4ba1-b5c1-91e2d7370de9" />
+
 
 1. 执行备份任务
 
-![test\.jpg](图片和附件/test%204.jpg)
+<img width="2559" height="1347" alt="test 4" src="https://github.com/user-attachments/assets/574c8a87-5321-4ccb-8d17-685c077c9520" />
+
 
 1. 查看备份文件
 
@@ -242,7 +247,8 @@ Starting nexus
 
 **注意： 程序检查版本升级后，会自动进行升级操作，这期间服务启动会慢，需要多等一会。如果希望查看启动过程或错误，建议使用 nexus run 命令，在前台运行服务，查看升级日志，或者查看sonatype\-work/nexus3/log/nexus\.log。**
 
-![test\.jpg](图片和附件/test%201.jpg)
+<img width="2059" height="620" alt="test 5" src="https://github.com/user-attachments/assets/ecace508-3c31-43ad-98b0-a79005978c63" />
+
 
 #### 3\.2\. Nexus升级至3\.77\.2版本
 
